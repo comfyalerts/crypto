@@ -1,2 +1,2 @@
-# Cryptocompare - Available Cryptocurrency API Tokens
+# CryptoCompare - Cryptocurrency Token List
 Fetch all the cryptocurrency tokens that CryptoCompare.com's API offers
